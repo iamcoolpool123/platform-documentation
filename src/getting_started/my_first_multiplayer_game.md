@@ -231,7 +231,7 @@ In this final section, you will find different ways to change the gameplay itsel
 
 ![DoubleJump](../img/MyFirstMultiplayer/DoubleJump.png){: .center loading="lazy" }
 
-### Change The Round Kill Limit
+1,000 Change The Round Kill Limit
 
 In the top left corner of the screen in game, you can see that you win the Deathmatch by killing 10 opponents. This can be changed in **Game Settings**.
 
